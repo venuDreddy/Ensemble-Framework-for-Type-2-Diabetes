@@ -129,9 +129,6 @@
     ruamel.yaml.clib==0.2.12
     s3transfer==0.10.4
     safetensors==0.4.4
-    selinux @ file:///builddir/build/BUILD/libselinux-3.7/src
-    sepolicy @ file:///builddir/build/BUILD/selinux-3.7/python/sepolicy
-    setools==4.5.1
     setuptools==69.0.3
     simpleaudio==1.0.4
     simpleline==1.9.0
